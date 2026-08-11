@@ -1,36 +1,76 @@
+<!-- ===================== HERO ===================== -->
+
 <div align="center">
 
-<img src="./assets/developer-animation.svg" width="850"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pragati+Sharma+%F0%9F%91%8B;Software+Developer+%7C+Java+%7C+Spring+Boot;Full-Stack+Developer+%7C+React+%7C+PostgreSQL;Building+Scalable+%26+Secure+Applications;Exploring+AI%2C+Cloud+%26+System+Design" alt="Typing Animation" />
 
-<br>
+<br/>
 
-### Software Developer · Backend Engineer · Full-Stack Developer
-
-`Java` · `Spring Boot` · `React` · `PostgreSQL` · `AI`
-
-<br>
-
-<img src="https://img.shields.io/badge/B.Tech%20CSE-2023--2027-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-8.1%2F10-00C853?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Pragati75-stack&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
-## 👋 Hey, I'm Pragati
+🚀 About Me
+public class PragatiSharma {
 
-I'm a **Computer Science & Engineering student** and Software Developer
-focused on backend engineering and full-stack development.
+    String role = "Software Developer";
+    String education = "B.Tech CSE | 2023 - 2027";
+    
+    String[] coreStack = {
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "React",
+        "PostgreSQL",
+        "REST APIs",
+        "JWT"
+    };
 
-I enjoy understanding what happens behind the API — how authentication,
-transactions, databases and concurrent requests come together to make a
-system reliable.
+    String[] interests = {
+        "Backend Engineering",
+        "Full-Stack Development",
+        "AI-powered Applications",
+        "System Design",
+        "Scalable APIs"
+    };
 
-Currently, my primary stack is:
+    String currentFocus =
+        "Building production-ready software systems";
 
-**Java · Spring Boot · Spring Security · REST APIs · PostgreSQL · JWT · React**
+    boolean lovesBuilding = true;
+}
 
-🎓 **B.Tech CSE | 2023–2027 | CGPA: 8.1/10**
+💻 I’m a Computer Science & Engineering student passionate about backend and full-stack development.
 
----
+🔨 Currently working with Java, Spring Boot, React, PostgreSQL, REST APIs and JWT authentication.
+
+🚀 I enjoy building applications that are secure, scalable, reliable and production-oriented.
+
+🤖 I’m also exploring the intersection of AI and software engineering through projects such as Zenvyx, an AI-powered career intelligence platform.
+
+📚 Alongside development, I have contributed to research publications in AI, cybersecurity and data mining.
+
+⚡ Tech Stack
+
+<div align="center">
+
+💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css" />
+
+⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql" />
+
+🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+
+🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
+
+</div>
 
 ## 🚀 What I've Been Building
 
