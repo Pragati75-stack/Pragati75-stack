@@ -1,282 +1,236 @@
-<!-- ===================================================== -->
-
-<!--                 PRAGATI SHARMA                         -->
-
-<!--             PREMIUM GITHUB PROFILE                     -->
-
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                 PRAGATI SHARMA | GITHUB                   -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:141E30,50:243B55,100:6C63FF&text=PRAGATI%20SHARMA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=60&descSize=18&animation=fadeIn"/>
+# 👋 Hi, I'm Pragati Sharma
+
+### Software Developer • Java & Spring Boot • Full-Stack Development • AI
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems;Developing+full-stack+applications;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+real-world+products" alt="Typing Animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=850&lines=Building+secure+%26+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+React;Full-Stack+Developer+%7C+AI+Enthusiast;Turning+ideas+into+production-ready+applications;Always+learning.+Always+building.+%F0%9F%9A%80" />
-
-<br/><br/>
-
-<a href="https://github.com/Pragati75-stack">
-<img src="https://img.shields.io/badge/GitHub-Pragati75--stack-181717?style=for-the-badge&logo=github"/>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:sharma.pragati0908@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_GOOGLE_SCHOLAR_URL">
+  <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Pragati75-stack&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Pragati
+## 🚀 About Me
 
-> **Software Developer in the making, focused on building reliable systems that solve real problems.**
+I'm a **B.Tech Computer Science & Engineering student** passionate about building
+scalable software systems, backend applications, and AI-powered solutions.
 
-I'm a **B.Tech Computer Science & Engineering student** and a **Software Developer Intern**, focused primarily on backend and full-stack engineering.
-
-My current development stack revolves around:
-
-**Java • Spring Boot • Spring Security • REST APIs • PostgreSQL • React • JWT**
-
-I enjoy working on systems involving:
-
-* ⚙️ Backend architecture
-* 🔐 Authentication & authorization
-* 🔄 RESTful APIs
-* 🗄️ Database design
-* ⚡ Concurrent transaction processing
-* 🎨 Full-stack applications
-* 🤖 AI-powered software
-* 📊 Data-driven applications
+- 🎓 **B.Tech CSE** — Dronacharya Group of Institution
+- 📊 **CGPA:** 8.1 / 10
+- 💼 **Software Developer Intern** at Rosmerta Technologies Limited
+- ☕ Working primarily with **Java & Spring Boot**
+- ⚛️ Building full-stack applications using **React**
+- 🗄️ Experienced with **PostgreSQL & relational database design**
+- 🤖 Exploring **AI, Machine Learning, NLP & Computer Vision**
+- 📚 Published research in **IEEE & AIP conferences**
+- 🌱 Currently focused on writing clean, scalable and production-ready software
 
 ---
 
-# 🏢 Currently Working On
-
-<div align="center">
-
-## 🚀 Software Developer Intern
-
-### Rosmerta Technologies Limited
-
-`Java` `Spring Boot` `PostgreSQL` `Spring Security` `JWT` `React`
-
-</div>
-
-I'm currently contributing to a **high-concurrency order management system**.
-
-
-```--
-## 🚀 What I've Been Building
-
-### 🧠 [Zenvyx — AI Career Intelligence Platform](YOUR_ZENVYX_REPO_LINK)
-
-An AI-powered platform designed to help students improve their employability
-through resume analysis, skill-gap identification and personalized career
-guidance.
-
-**What it does**
-
-- 📄 Resume analysis
-- 🎯 Skill-gap identification
-- 🤖 AI-powered resume insights
-- 💬 Interview preparation
-- 🧭 Personalized career guidance
-- 📊 Career progress tracking
-- 🔐 Secure authentication
-- 📈 Interactive dashboards
-
-**Tech:** `React` `Spring Boot` `PostgreSQL` `JWT` `AI`
-
----
-
-### 💧 [AquaStore — Enterprise Water Marketplace](YOUR_AQUASTORE_REPO_LINK)
-
-A full-stack marketplace application designed around real-world
-product, cart, order and user management workflows.
-
-**Key features**
-
-- 🔐 Authentication & role-based access
-- 📦 Product management
-- 🛒 Cart & order management
-- 👤 User management
-- 🔗 REST APIs
-- 🔒 Transaction handling
-- ⚡ Database locking
-- 🗄️ PostgreSQL persistence
-
-**Tech:** `Spring Boot` `React` `PostgreSQL` `JWT`
-
----
-
-### 🌐 [My Portfolio — React + Spring Boot](https://github.com/Pragati75-stack/pragati-portfolio)
-
-My personal developer portfolio showcasing my projects, technical skills,
-experience and research.
-
-**Tech:** `React` `Spring Boot` `REST APIs` `PostgreSQL`
-
----
-
-## 💼 Currently Working On
-
-### Software Developer Intern — Rosmerta Technologies Limited
-
-I'm currently working on a **high-concurrency order management system**.
-
-```text
-React
-  │
-  ▼
-REST APIs
-  │
-  ▼
-Spring Boot
-  │
-  ├── Spring Security + JWT
-  │
-  ├── Business Logic
-  │
-  ├── Transactions
-  │
-  └── Concurrency Control
-          │
-          ▼
-      PostgreSQL
-
-
-# 🛠️ Technology Arsenal
-
-<div align="center">
+## 💻 Tech Stack
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css" />
+</p>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+**Spring Boot • Spring Security • REST APIs • JWT Authentication**
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+**React • Vite • Tailwind CSS • React Router**
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
 
-### Developer Tools
+**PostgreSQL • MySQL • SQLite • Database Design**
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman"/>
+### Tools
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
+</p>
 
 ---
 
-# 🔐 Backend Skills
+# 🔥 Featured Projects
 
-```text
-Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- └── Multithreading
+## 🌊 AquaStore — Enterprise Water Marketplace
 
-Spring Boot
- ├── REST APIs
- ├── Spring Data JPA
- ├── Spring Security
- ├── JWT Authentication
- └── Transaction Management
+**A full-stack e-commerce platform designed for water and sustainability-focused
+marketplace operations.**
 
-Database
- ├── PostgreSQL
- ├── MySQL
- ├── SQLite
- ├── Database Design
- └── Concurrency & Locking
-```
+### Tech Stack
+
+`Spring Boot` `React` `PostgreSQL` `JWT` `Spring Security` `REST APIs`
+
+### Highlights
+
+- 🔐 Secure authentication and role-based access
+- 🛍️ Product management and marketplace functionality
+- 🛒 Cart and order management
+- 👤 User management
+- 🔌 RESTful backend APIs
+- 🗄️ PostgreSQL database integration
+- ⚡ Transaction management and database locking
+- 📊 Designed with concurrent order processing in mind
+
+### Repository
+
+<a href="YOUR_AQUASTORE_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/🚀%20View%20AquaStore%20Repository-6C63FF?style=for-the-badge"/>
+</a>
+
+---
+
+## 🤖 Zenvyx — AI Career Intelligence & Employability Platform
+
+**An AI-powered platform designed to help students improve employability through
+resume intelligence, skill-gap analysis and personalized career guidance.**
+
+### Tech Stack
+
+`React` `Spring Boot` `PostgreSQL` `AI` `REST APIs`
+
+### Highlights
+
+- 📄 AI-powered resume analysis
+- 🎯 Skill-gap identification
+- 💡 Personalized career guidance
+- 🧠 AI-powered resume insights
+- 🎤 Interview preparation modules
+- 📈 Career progress tracking
+- 🔐 Secure authentication
+- 👤 Resume and user management
+- 📊 Interactive dashboards
+- 🏗️ Production-oriented SaaS architecture
+
+### Repository
+
+<a href="YOUR_ZENVYX_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/🚀%20View%20Zenvyx%20Repository-6C63FF?style=for-the-badge"/>
+</a>
+
+---
+
+# 💼 Experience
+
+### Software Developer Intern
+**Rosmerta Technologies Limited**  
+📍 On-site | July 2026 – Present
+
+Working on backend and full-stack development using:
+
+- ☕ Java & Spring Boot
+- 🔐 Spring Security & JWT
+- 🔌 RESTful API development
+- 🗄️ PostgreSQL
+- ⚛️ React
+- ⚡ Transaction management
+- 🔒 Database locking & concurrency handling
+- 🛠️ Git & IntelliJ IDEA
+
+Currently contributing to a high-concurrency order management system with
+focus on reliable order processing and data consistency.
 
 ---
 
 # 📚 Research & Publications
 
-### 🔬 Adaptive Cybersecurity
+### 📄 Synergy of Blockchain and Artificial Intelligence for Adaptive Cybersecurity
 
-**Synergy Of Blockchain And Artificial Intelligence For Adaptive Cybersecurity: A Decentralized Intelligence Framework**
+**Main Author — IEEE Conference**
 
-**IEEE Conference**
+> A decentralized intelligence framework combining Blockchain and Artificial
+> Intelligence for adaptive cybersecurity.
 
-`DOI: 10.1109/ic-aida68291.2026.11564174`
-
----
-
-### 📊 Data Mining
-
-**Customer Segmentation For Market Analysis using Data Mining**
-
-**AIP Conference**
-
-`DOI: 10.1063/5.0286792`
+**DOI:** `10.1109/ic-aida68291.2026.11564174`
 
 ---
 
-# 📈 GitHub Activity
+### 📄 Customer Segmentation for Market Analysis using Data Mining
+
+**Co-Author — AIP Conference**
+
+**DOI:** `10.1063/5.0286792`
+
+---
+
+# 🎓 Education
+
+### Bachelor of Technology — Computer Science & Engineering
+
+**Dronacharya Group of Institution, Greater Noida, India**
+
+**2023 – 2027**
+
+**CGPA: 8.1 / 10**
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pragati75-stack&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pragati75-stack&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati75-stack&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Pragati75-stack&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati75-stack&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
 </div>
 
 ---
-<div align="center">
-# 💡 Engineering Philosophy
+
+# 🐍 Contribution Activity
 
 <div align="center">
 
-> ### "Don't just write code. Build systems that can be trusted."
-
-**Clean Code • Secure APIs • Reliable Databases • Scalable Architecture**
+<img src="https://raw.githubusercontent.com/Pragati75-stack/Pragati75-stack/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
-# 🤝 Let's Connect
 
-<div align="center">
+# 📈 What I'm Currently Building
 
-<a href="https://github.com/Pragati75-stack">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:sharma.pragati0908@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-
-
-
+```text
+Java + Spring Boot
+        ↓
+REST APIs
+        ↓
+Spring Security + JWT
+        ↓
+PostgreSQL
+        ↓
+React
+        ↓
+AI-powered Applications
