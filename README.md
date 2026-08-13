@@ -197,29 +197,6 @@ focus on reliable order processing and data consistency.
 **CGPA: 8.1 / 10**
 
 ---
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pragati75-stack&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati75-stack&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Pragati75-stack/Pragati75-stack/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 # 📈 What I'm Currently Building
 
 ```text
